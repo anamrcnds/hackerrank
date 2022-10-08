@@ -13,4 +13,4 @@ function camelcase(s) {
     console.log(words)
 }
 
-camelcase('euMeChamoAnaEVoce')
+camelcase('wordondeWordtwoWordthree')
