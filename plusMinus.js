@@ -1,11 +1,3 @@
-
-
-
-
-/* tamanho do array: maior que 0 e menor que 100
-    verificar quantidade de positivos, negativos e 0's e armazenar em variaveis as qtdes 
-    o resultado deve ser impresso com 6 casas decimais*/
-
 let arr = [1, 2, 3, 0, -2, -4]
 
 function plusMinus(arr) {
